@@ -1,0 +1,5 @@
+# Network Scanner Tool
+
+Scans local network for active devices and open ports.
+
+## Installation

@@ -1,0 +1,5 @@
+network-scanner/
+├── README.md
+├── scanner.py
+├── requirements.txt
+└── .gitignore
